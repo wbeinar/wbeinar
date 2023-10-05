@@ -1,0 +1,13 @@
+.centralizar {
+    width: 800px;
+    margin: auto;
+  }
+
+  section {
+    border-bottom: 1px solid lightgrey;
+  }
+
+  h1, h2 {
+    color: red
+  }
+
